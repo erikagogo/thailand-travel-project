@@ -86,6 +86,7 @@ header {
     url("/images/flower-festival.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  filter: brightness(250%);
 
   text-align: center;
   color: white;
@@ -185,6 +186,7 @@ footer {
     linear-gradient(rgba(39, 32, 68, 0.9), rgba(39, 32, 68, 0.9)),
     url("/images/chiangmai-city.jpg");
   color: white;
+  filter: sepia(30%);
   background-repeat: no-repeat;
   background-size: cover;
 }
