@@ -186,7 +186,7 @@ footer {
     linear-gradient(rgba(39, 32, 68, 0.9), rgba(39, 32, 68, 0.9)),
     url("/images/chiangmai-city.jpg");
   color: white;
-  filter: sepia(30%);
+  filter: brightness(150%);
   background-repeat: no-repeat;
   background-size: cover;
 }
